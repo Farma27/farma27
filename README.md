@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fadhilah Nuramadhan</h1>
-<h3 align="center">Amateur frontend developer.</h3>
+<h3 align="center">Amateur frontend web developer.</h3>
 
 - 🌱 I’m currently learning **to become a proper web developer**
 
