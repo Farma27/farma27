@@ -55,6 +55,6 @@
   </a>
 </p>
 
-<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farma27&show_icons=true&locale=en&layout=compact" alt="farma27" /></p>
-
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=farma27&show_icons=true&locale=en" alt="farma27" /></p>
+
+<p><img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=farma27&show_icons=true&locale=en&layout=compact" alt="farma27" /></p>
